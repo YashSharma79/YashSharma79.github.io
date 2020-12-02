@@ -8,7 +8,3 @@ I update this paper regularly. I am very interested in combining the tenets of d
 
 ### Work
 I have worked on constraint programming, operations research. Previously, i have worked on Virtual Reality. I have contributed to designing software that is being by logistics companies in India. I have developed my coding skills by creating games. I have been an early stage programmer for two startups and contributed to product design.
-
-### Projects
-* [Virtual Reality to Treat Phobias](https://github.com/YashSharma79/Phobia-VR)
-* [Green Age (a platformer game)](https://github.com/YashSharma79/Green-Age)
