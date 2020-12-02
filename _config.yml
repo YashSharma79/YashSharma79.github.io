@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   backpropagation, gradient descent and causality can work together to make human-level intelligence.
 github_username: yashsharma79
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -50,8 +50,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 author:
