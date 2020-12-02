@@ -2,40 +2,12 @@ title: Yash Sharma
 author:
   name: yashsharma79
   email: yashsharma2595@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  I am curious about causal inference and automated reasoning.
+description: I am curious about causal inference and automated reasoning.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
   date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    #twitter: jekyllrb
-    #github:  jekyll
-    # linkedin: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -48,5 +20,4 @@ header_pages:
 theme: minima
 
 plugins:
- - jekyll-feed
  - jekyll-seo-tag
