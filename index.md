@@ -1,10 +1,9 @@
-## Home
-### Research Interests
-
-I am curious about causal inference and automated reasoning. Please check out my work here:
-[Modelling knowledge representation about matter through causal inference and gradient descent](https://yashsharma79.github.io/files/Modelling knowledge representation about matter through causal inference and gradient descent.pdf)
-
-I update this paper regularly. I am very interested in combining the tenets of deep learning - backpropagation and gradient descent with causal modelling.
-
-### Work
-I have worked on constraint programming, operations research. Previously, i have worked on Virtual Reality. I have contributed to designing software that is being by logistics companies in India. I have developed my coding skills by creating games. I have been an early stage programmer for two startups and contributed to product design.
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
