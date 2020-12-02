@@ -43,15 +43,13 @@ atom_feed:
 author:
   name             : "Yash Sharma"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  employer         :
+  bio              :
   email            :
   uri              :
   bitbucket        :
-  github           : "academicpages"
+  github           : "https://github.com/YashSharma79"
   linkedin         :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  twitter          : "replacethistwitterhandle"
   youtube          :
 
 
