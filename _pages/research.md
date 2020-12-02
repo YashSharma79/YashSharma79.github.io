@@ -1,3 +1,8 @@
+---
+permalink: /research/
+title: "Research"
+---
+
 ### Research Interests
 
 I am curious about causal inference and automated reasoning. Please check out my work here:
