@@ -13,5 +13,8 @@ permalink: /projects/
 * Simulates cloud environments to evaluate their reliability(availability/downtime) and security
 * Measures cloud performance against different encryption protocols and identity management levels
 
+[Peak Spirt](https://github.com/YashSharma79/peak-spirit)
+* A 2D game created wihout a game-engine in plain Java
+
 [Green Age](https://github.com/YashSharma79/Green-Age)
-* A platformer puzzle game
+* A platformer puzzle game made with Unity
