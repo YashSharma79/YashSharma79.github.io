@@ -9,7 +9,7 @@ permalink: /projects/
 * Infers most probable sensor measurements present prior to accidents, with ML
 * Currently developing model to infer causal relations that led to errors
 
-[Trust Model For Cloud Computing (a platformer game)](https://github.com/YashSharma79/Trust-Model-for-Cloud)
+[Trust Model For Cloud Computing](https://github.com/YashSharma79/Trust-Model-for-Cloud)
 * Simulates cloud environments to evaluate their reliability(availability/downtime) and security
 * Measures cloud performance against different encryption protocols and identity management levels
 
