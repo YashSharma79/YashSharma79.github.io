@@ -14,7 +14,7 @@ permalink: /projects/
 * Measures cloud performance against different encryption protocols and identity management levels
 
 [Peak Spirt](https://github.com/YashSharma79/peak-spirit)
-* A 2D game created wihout a game-engine in plain Java
+* A 2D game created with plain Java
 
 [Green Age](https://github.com/YashSharma79/Green-Age)
 * A platformer puzzle game made with Unity
