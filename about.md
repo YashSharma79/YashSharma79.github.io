@@ -18,5 +18,8 @@ I write songs and play guitar and piano which i post on [Youtube channel](https:
 * We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
                                         - _Roy Amara_
 * Problems are inevitable. Problems are soluble.
-                                        - _David Deutsch_   
+                                        - _David Deutsch_
+
+* Curiosity, rigour, slightly obsessional perfectionism, being able to identify important questions. To be a good scientist you have to indulge in a degree of lateral or creative thinking, in terms of constructing new questions. I normally say that a mark of a good scientist is the quality of questions they ask. So that would be the hallmark of a good scientist for me: asking questions that no-one has asked before.   
+                                        - _Karl Friston_
                                      

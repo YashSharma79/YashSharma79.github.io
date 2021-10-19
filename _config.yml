@@ -14,7 +14,7 @@ minima:
 header_pages:
   - research.md
   - projects.md
-  - cv.md
+  - resume.md
   - about.md
 
 # Build settings
