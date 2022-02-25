@@ -9,7 +9,7 @@ layout: home
 ---
 
 ## Introduction
-Research Assistant the Rutgers Center for Cognitive Science
+Research Assistant the Rutgers Center for Cognitive Science <br>
 Working on computing entanglement entropy at the Quantum Information Center
 
 
