@@ -7,12 +7,20 @@
 #
 layout: home
 ---
+
+## Introduction
+Research Assistant the Rutgers Center for Cognitive Science
+Working on computing entanglement entropy at the Quantum Information Center
+
+
 ## Research Interests
 For reasoning and knowledge creation, the AI would need an internal model of the world. I am working on a paper - [Modelling knowledge representation about matter through causal inference](https://yashsharma79.github.io/files/Modelling knowledge representation about matter through causal inference and gradient descent.pdf). proposes way to build up a simple version of such model and a representation.
 
 Prior knowledge of energy, mass and volume is built into the agent. Prediction error is triggered by change in state of objects. An external memory is available to the agent in order to compile knowledge that can amortize discovery over multiple inferences.
-## Work
+## 
+
+## Industry Work
 I have worked on constraint programming, operations research and Virtual Reality. I have contributed to designing software that is being used by the top companies in India to optimise their logistics. I have contributed to a Virtual Reality product that lets people validate machine designs, process images in optimal form for VR and built an AR app with over 1K downloads. I have been an early stage programmer for two startups and contributed to product design.
 
 ## What ideas inspire me?
-The scientific ideas of AI particularly the mathematics of causality and the backpropagation algorithm. These simple and profound ideas make me realise the reach of simplicity and good explanations.
+The scientific ideas of AI particularly the mathematics of causality
