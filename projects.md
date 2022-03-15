@@ -2,16 +2,13 @@
 title: Projects
 permalink: /projects/
 ---
+[Neural networks from scratch](https://github.com/YashSharma79/neural-networks-from-scratch)
+* Implemented backpropagation and fully connected neural networks from scratch in python 
+
+
 [Virtual Reality to Treat Phobias](https://github.com/YashSharma79/Phobia-VR)
 * A non-threatening environment to treat acrophobia(fear of heights), entomophobia(fear of insects) and claustrophobia(fear of closed spaces)
 
-[Capturing errors in industrial accidents (currently working on)](https://github.com/YashSharma79/industrial-accidents)
-* Infers most probable sensor measurements present prior to accidents, with ML
-* Currently developing model to infer causal relations that led to errors
-
-[Trust Model For Cloud Computing](https://github.com/YashSharma79/Trust-Model-for-Cloud)
-* Simulates cloud environments to evaluate their reliability(availability/downtime) and security
-* Measures cloud performance against different encryption protocols and identity management levels
 
 [Peak Spirt](https://github.com/YashSharma79/peak-spirit)
 * A 2D game created with plain Java
