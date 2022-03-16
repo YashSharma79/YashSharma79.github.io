@@ -51,7 +51,7 @@ What?? Didn't you say test accuracy was 99%?
 
 RIP intuition. Long live Bayes theorem
 
-$$P(A\|B) = \\frac{P(B\|A) P (A)}{P(B)}$$
+$$P(A|B) = \frac{P(B|A) P (A)}{P(B)}$$
 
 ## Statistics has entered the chat
 
@@ -67,7 +67,11 @@ How to measure the similarities between two probability distributions?
 
 How is entropy the average amount of surprise? (Hint: Think about compression)
 
-How is entropy = the expected value of Shannon information? Why do I have to re-derive this every time, why can't I just remember how *H*(*X*) = 𝔼<sub>*x*</sub>\[*I*(*X*)\] =  − ∑*p*(*x*) *l**o**g* *p*(*x*)
+How is entropy = the expected value of Shannon information? Why do I have to re-derive this every time, why can't I just remember how 
+ {% raw %}
+  $$  H(X) = 𝔼[X] = [I(X)] =  − \sum p(x) log p(x) $$
+ {% endraw %}
+ 
 ?
 
 Is there any part of machine learning that cannot be described through an information theoretic framework? Is there even a slight inconsistency between the two?
