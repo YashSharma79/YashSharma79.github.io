@@ -23,7 +23,3 @@ theme: minima
 
 plugins:
  - jekyll-seo-tag
-
-markdown: kramdown
-kramdown:
-    math_engine: katex
