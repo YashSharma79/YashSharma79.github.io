@@ -7,8 +7,7 @@ permalink: /Writings/
 # Machine Learning - Wrong questions only
 
 *"Young man, in mathematics you don't understand things. You just get used to them.”*
-
-                                                                                                       — John von Neumann
+                                                        —_John von Neumann_
 
 Most of these have simple answers, few don't. Over time, I will forget these questions, because I will become used to the answers. So this a note in this moment of time, that will be lost in the tomorrow.
 
