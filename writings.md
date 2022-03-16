@@ -2,6 +2,7 @@
 layout: home
 title: Writings
 permalink: /Writings/
+usemathjax: true
 ---
 
 # Machine Learning - Wrong questions only
