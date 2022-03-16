@@ -11,8 +11,7 @@ permalink: /Writings/
 >                                                        —_John von Neumann_
 
 Most of these have simple answers, few don't. Over time, I will forget these questions, because I will become used to the answers. So this a note in this moment of time, that will be lost in the tomorrow.
-
-
+<br/>
 ## Infant mode questions
 
 What are the simplest examples of linear functions?
@@ -37,7 +36,7 @@ What are the limits to gradient based optimization? Even with no vanishing or ex
 
 How much of natural selection by variation is optimization?
 
-
+<br/>
 ## Probability is one helluva drug
 
 You tested positive for a serious disease. 
@@ -46,17 +45,17 @@ Test accuracy = 99%
 
 The disease happens only to 1 in 10,000 people.
 
-What are the chances that you actually have the disease? 
+**Q** What are the chances that you actually have the disease? 
 
-0.98%
+**A** 0.98%
 
 What?? Didn't you say test accuracy was 99%?
 
 RIP intuition. Long live Bayes theorem
 
-$$ P(A|B) = P(B|A) P (A) / P(B) $$
+                    P(A|B) = P(B|A) P (A) / P(B) 
 
-
+<br/>
 ## Statistics has entered the chat
 
 What’s the difference between ‘probability’ and ‘probability density’?
@@ -65,6 +64,7 @@ What are the parameters of a probability distribution? What does this book even 
 
 How to measure the similarities between two probability distributions?
 
+<br/>
 
 ## Information theory will solve all my life’s problems.
 
