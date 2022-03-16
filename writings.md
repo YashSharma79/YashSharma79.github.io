@@ -45,15 +45,15 @@ Test accuracy = 99%
 
 The disease happens only to 1 in 10,000 people.
 
-**Q** What are the chances that you actually have the disease? 
+**Q.** What are the chances that you actually have the disease? 
 
-**A** 0.98%
+**A.** 0.98%
 
 What?? Didn't you say test accuracy was 99%?
 
 RIP intuition. Long live Bayes theorem
 
-                    P(A|B) = P(B|A) P (A) / P(B) 
+                        P(A|B) = P(B|A) * P (A) / P(B) 
 
 <br/>
 ## Statistics has entered the chat
@@ -73,7 +73,7 @@ How to measure the similarities between two probability distributions?
 How is entropy the average amount of surprise? (Hint: Think about compression)
 
 How is entropy = the expected value of Shannon information? Why do I have to re-derive this every time, why can't I just remember how 
-  H(X) = 𝔼[X] = [I(X)] =  − ∑ p(x) log p(x) ?
+  **H(X) = 𝔼[X] = [I(X)] =  − ∑ p(x) log p(x)**?
 
 Is there any part of machine learning that cannot be described through an information theoretic framework? Is there even a slight inconsistency between the two?
 
