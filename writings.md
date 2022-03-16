@@ -2,6 +2,7 @@
 layout: home
 title: Writings
 permalink: /Writings/
+use_math: true
 ---
 
 # Machine Learning - Wrong questions only
