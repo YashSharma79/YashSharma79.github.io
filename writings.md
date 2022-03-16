@@ -68,10 +68,7 @@ How to measure the similarities between two probability distributions?
 How is entropy the average amount of surprise? (Hint: Think about compression)
 
 How is entropy = the expected value of Shannon information? Why do I have to re-derive this every time, why can't I just remember how 
- {% raw %}
-  $$  H(X) = 𝔼[X] = [I(X)] =  − \sum p(x) log p(x) $$
- {% endraw %}
- 
+  $$  H(X) = 𝔼[X] = [I(X)] =  − \sum p(x) log p(x) $$ 
 ?
 
 Is there any part of machine learning that cannot be described through an information theoretic framework? Is there even a slight inconsistency between the two?
