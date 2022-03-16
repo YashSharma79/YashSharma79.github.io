@@ -39,17 +39,17 @@ How much of natural selection by variation is optimization?
 <br/>
 ## Probability is one helluva drug
 
-You tested positive for a serious disease. 
+I tested positive for a serious disease. 
 
 Test accuracy = 99% 
 
 The disease happens only to 1 in 10,000 people.
 
-**Q.** What are the chances that you actually have the disease? 
+**Q.** What are the chances that I actually have the disease? 
 
 **A.** 0.98%
 
-What?? Didn't you say test accuracy was 99%?
+What?? Didn't it say test accuracy was 99%?
 
 RIP intuition. Long live Bayes theorem
 
