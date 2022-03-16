@@ -22,6 +22,7 @@ What is a difference between a tensor and n-dimensional array?
 
 What is a neural network with 0 hidden layers?
 
+
 What are these things that are called  ‘activations’ in neural networks? If a neural network doesn't have any activation functions, is it still a neural network?
 
 If the ReLU is not always differentiable, how is it used in gradient descent? 
@@ -29,6 +30,8 @@ If the ReLU is not always differentiable, how is it used in gradient descent?
 Why first order gradients and not second order gradients? Why the rate of change? And not the rate of rate of change? 
 
 Why do we care about automatic differentiation? We could easily do differentiation in high school?  That wasn't too hard. Why use backpropagation to compute derivatives? Why don’t we just teach computers symbolic differentiation( the way we do on paper)?
+
+Where is this batch norm coming from? What is its use?
 
 Wait, gradient descent is one thing. Backpropagation is another. Are they different? Oh absolutely different, I am not very bright am I?
 
