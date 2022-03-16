@@ -18,7 +18,6 @@ layout: home
 For reasoning and knowledge creation, the AI would need an internal model of the world. I am working on a paper - [Modelling knowledge representation about matter through causal inference](https://yashsharma79.github.io/files/Modelling knowledge representation about matter through causal inference and gradient descent.pdf). proposes way to build up a simple version of such model and a representation.
 
 Prior knowledge of energy, mass and volume is built into the agent. Prediction error is triggered by change in state of objects. An external memory is available to the agent in order to compile knowledge that can amortize discovery over multiple inferences.
-##
 
 ## What ideas inspire me?
 The mathematics of causality, physics inspired machine learning, open-endedness in AI
