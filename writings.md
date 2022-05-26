@@ -22,7 +22,6 @@ What is a difference between a tensor and n-dimensional array?
 
 What is a neural network with 0 hidden layers?
 
-
 What are these things that are called  ‘activations’ in neural networks? If a neural network doesn't have any activation functions, is it still a neural network?
 
 If the ReLU is not always differentiable, how is it used in gradient descent? 
