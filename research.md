@@ -4,10 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-## Machine Learning
-For reasoning and knowledge creation, the AI would need an internal model of the world. This paper - [Modelling knowledge representation about matter through causal inference and gradient descent](https://yashsharma79.github.io/files/Modelling knowledge representation about matter through causal inference and gradient descent.pdf). proposes way to build up a simple version of such model and a representation. Prior knowledge of energy, mass and volume is built into the agent. Prediction error is triggered by change in state of objects, which must be resolved by combining causal inference and gradient descent. An external memory is available to the agent in order to compile knowledge that can amortize discovery over multiple inferences.
-
-The agent would be equipped with an external memory to record data about the interventions it runs on these atoms. The aim is to generate data with all the interventions that are possible in such a simple but real world. The inference to draw is what behaviour a form of matter would produce under different interventions.
-
 ## Quantum Computing
-Computing entanglement entropy for graph states
+#Papers:
+Generating k EPR pairs from an n-party resource state
+
+
+#Currently thinking
+Why are there so many different measures for entanglement?
+
+What is the deal with multipartite entanglement and why is it difficult to pin down?
+
+
+## Machine Learning
+Lets think. So LLMs are going good. Transformers are being applied for solving Linear Algebra and undergrad math. Graph neural networks are doing good on CLRS benchmark. AlphaTensor found a more optimal algorithm for matrix multiplication. SayCan is a good step for robotics. Great. What problems cannot be solved by scaling data and model? I think I will work on causality. Creative thinking like coming up with new ideas. How to make an enterpreneurial AI that will find problems and work on them? Maybe the big thing we need is just AI that can extremely cheaply build roads, lay pipelines and electricity lines in developing or under-developed places and also monitor and supply maintanence for those constructions?
+
+
